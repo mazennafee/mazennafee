@@ -30,8 +30,6 @@ I am a cybersecurity professional focused on securing the decentralized web. I s
 ### 📫 Let's Connect
 - **Email:** mazen.nafee@gmail.com
 - 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazennafee&show_icons=true&theme=tokyonight" alt="Mazen's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazennafee&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Mazen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazennafee&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazennafee&layout=compact&theme=tokyonight)
