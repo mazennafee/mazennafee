@@ -29,7 +29,10 @@ I am a cybersecurity professional focused on securing the decentralized web. I s
 
 ### 📫 Let's Connect
 - **Email:** mazen.nafee@gmail.com
-- 
-![Mazen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazennafee&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazennafee&layout=compact&theme=tokyonight)
+  
+ <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazennafee&theme=tokyonight" alt="GitHub Streak" />
+  
+  <br/><br/>
+  
+</div>
