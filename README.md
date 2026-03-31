@@ -22,8 +22,13 @@ I am a cybersecurity professional focused on securing the decentralized web. I s
 ### 🏆 Security Profiles & Achievements
 - **Code4rena:** [C4 Profile](https://code4rena.com/@mazennafe)
 - **HackenProof:** [HackenProof Profile](https://hackenproof.com/hackers/MazenNafe)
-- **Notable Findings:** - [High/Critical] Shared `_cache` Storage Slot Poisoning in LPPlugin.
-  - [Security] Signature Malleability Fix in Peggy.sol.
+
+---
+
+### 🏆 Notable Findings & Contributions
+
+| Severity | Vulnerability / Task | Target |
+| :--- | :--- | :--- |
 
 ---
 
