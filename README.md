@@ -29,6 +29,8 @@ I am a cybersecurity professional focused on securing the decentralized web. I s
 
 | Severity | Vulnerability / Task | Target |
 | :--- | :--- | :--- |
+| ![Critical](https://img.shields.io/badge/Critical-red?style=for-the-badge) | [Unbounded Future Round Buffering (OOM) - Network DoS](./Circle-Malachite-Unbounded-Rounds-OOM/README.md) | Circle Malachite |
+| ![High](https://img.shields.io/badge/High-orange?style=for-the-badge) | *Pending New Research...* | TBD |
 
 ---
 
