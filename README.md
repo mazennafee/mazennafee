@@ -29,7 +29,8 @@ I am a cybersecurity professional focused on securing the decentralized web. I s
 
 | Severity | Vulnerability / Task | Target |
 | :--- | :--- | :--- |
-| ![Critical](https://img.shields.io/badge/Critical-red?style=for-the-badge) | [Unbounded Future Round Buffering (OOM) - Network DoS](./Circle-Malachite-Unbounded-Rounds-OOM/README.md) | Circle Malachite |
+| ![Critical](https://img.shields.io/badge/Critical-red?style=for-the-badge) | **[Fund Loss & Phantom Backing in Cross-Chain Accounting](https://github.com/YOUR_USERNAME/audits/tree/main/Overlayer-CrossChain-Underflow-Fund-Loss)**<br><sub>• Discovered a severe state-desync logic flaw in OFT bridging mechanics.<br>• Proved that an unconditional Panic `0x11` leads to 100% loss of user funds and artificially inflates Aave backing metrics.</sub> | Overlayer |
+| ![Critical](https://img.shields.io/badge/Critical-red?style=for-the-badge) | **[Liveness Failure in BFT Consensus (Unbounded Rounds OOM)](https://github.com/YOUR_USERNAME/audits/tree/main/Circle-Malachite-Unbounded-Rounds-OOM)**<br><sub>• Discovered an unbounded memory allocation flaw in the P2P buffering logic.<br>• Developed an End-to-End network exploit demonstrating a deterministic network-wide crash.</sub> | Circle Malachite |
 | ![High](https://img.shields.io/badge/High-orange?style=for-the-badge) | *Pending New Research...* | TBD |
 
 ---
