@@ -20,7 +20,7 @@ I am a cybersecurity professional focused on securing the decentralized web. I s
 ---
 
 ### 🏆 Security Profiles & Achievements
-- **HackerOne:** [HackerOne Profile](https://hackerone.com/mazennafee)
+- **HackerOne:** [HackerOne Profile](https://hackerone.com/mazennafe?type=user)
 - **Code4rena:** [C4 Profile](https://code4rena.com/@mazennafe)
 - **HackenProof:** [HackenProof Profile](https://hackenproof.com/hackers/MazenNafe)
 
